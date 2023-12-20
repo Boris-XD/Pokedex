@@ -9,8 +9,9 @@ Currently, two official plugins are available:
 
 
 
-Dependencies
+# Dependencies
 Axios
+
 Tailwindcss
  - https://tailwindcss.com/docs/guides/vite
 
